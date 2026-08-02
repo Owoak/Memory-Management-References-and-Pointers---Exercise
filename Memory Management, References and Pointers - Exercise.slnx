@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01. Gauss' Trick/01. Gauss' Trick.vcxproj" Id="cdd80adc-3538-46e8-a072-9290b8eb88f5" />
+  <Project Path="02. Remove Negatives and Reverse/02. Remove Negatives and Reverse.vcxproj" Id="c0ce3910-6402-4ba4-b3eb-b3ec1ea7225e" />
+</Solution>
